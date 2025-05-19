@@ -3,3 +3,7 @@ h1 {
     border-color: aquamarine;
     border-style: dashed;
 }
+
+body {
+    background-color: brown;
+}
